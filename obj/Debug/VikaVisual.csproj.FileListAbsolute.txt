@@ -1,0 +1,10 @@
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\bin\Debug\VikaVisual.exe.config
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\bin\Debug\VikaVisual.exe
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\bin\Debug\VikaVisual.pdb
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\obj\Debug\VikaVisual.csproj.AssemblyReference.cache
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\obj\Debug\VikaVisual.Form1.resources
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\obj\Debug\VikaVisual.Properties.Resources.resources
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\obj\Debug\VikaVisual.csproj.GenerateResource.cache
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\obj\Debug\VikaVisual.csproj.CoreCompileInputs.cache
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\obj\Debug\VikaVisual.exe
+C:\Users\tilto\source\repos\VikaVisual\VikaVisual\obj\Debug\VikaVisual.pdb
